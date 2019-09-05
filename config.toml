@@ -1,0 +1,33 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Benjamin Hill"
+theme = "kube"
+description = ""
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "Benjamin Hill" # add your company name
+  github = "https://github.com/Benjamin00/" # add your github profile name
+  twitter = "" # add your twitter profile
+  email = "BenjaminHillCS@gmail.com"
+
+[[menu.main]]
+    name = "Portfolio"
+    weight = -100
+    url = "/portfolio/"
+[[menu.main]]
+    name = "Docs"
+    weight = -100
+    url = "/docs/"
+[[menu.main]]
+    name = "Blog"
+    weight = -100
+    url = "/blog/"
+[[menu.main]]
+    name = "Background"
+    weight = -100
+    url = "/background/"
+[[menu.main]]
+    name = "Resume"
+    weight = -100
+    url = "/resume/"

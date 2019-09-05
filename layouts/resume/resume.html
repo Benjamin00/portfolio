@@ -1,0 +1,26 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+<!DOCTYPE html>
+<main>
+    <title>Basic Template</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Kube CSS -->
+    <link rel="stylesheet" href="assets/css/kube.css">
+
+</main>
+<body>
+    <div id="hero" class="wrap">
+    <h4 class = "text-center" ><a class="button outline"  href = "mailto: BenjaminHillCS@gmail.com" >Email</a> <a class="button outline" target="_blank" href="https://github.com/Benjamin00/" onclick="_gaq.push(['_trackEvent', 'kube', 'github']);">GitHub</a>
+        <a class = "button outline" target="_blank" href = "https://www.linkedin.com/in/benjaminjhill/">LinkedIn</a></h4> 
+    </div>
+    <div id="kube-faq2">
+       {{.Content}}
+    </div>
+    
+</body>
+{{ end }}
+{{ define "footer"}} {{ partial "footer" .}} {{end}}

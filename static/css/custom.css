@@ -1,0 +1,25 @@
+#kube-faq2 {
+    max-width: 780px;
+    margin: auto;
+    font-size: 15px;
+    /* line-height: 28px; */
+    /* margin-bottom: 104px; */
+    /* border-top: 1px solid rgba(0, 0, 0, 0.07); } */
+    }
+#kube-faq h2 {
+  font-size: 24px;
+  font-weight: 900;
+  text-align: center;
+  line-height: 32px;
+  margin-top: 80px;
+  margin-bottom: 40px; 
+}
+.user {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+
+  object-fit: cover;
+}
+    
