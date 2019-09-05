@@ -1,13 +1,14 @@
 +++
-date = "2019-04-10T16:41:54+01:00"
+date = "2018-11"
 weight = 110
-description = "A Native Swift app "
+description = "A native IOS app to increase volunteerism"
 title = "Beto for Texas"
 draft = false
 bref= "Built an App for the Beto for Texas Senate Campaign"
 toc = true
-image = "https://user-images.githubusercontent.com/8885471/57964753-71023e00-78ef-11e9-9bf2-6d7711f4ffbf.gif"
 +++
+
+## Background
 This app was developed over the course of the summer of 2018. I had the idea to build an app for the team when I realized there was none, I was frustrated by the state of politics in Texas, and wanted to volunteer to build something for a cause I cared about. When I wasn't taking classes I was communicating and coordinating solutions for the app with campaign staff, and learning how to code with swift and Xcode from scratch. Firebase was used for a backend solution, and real-time updates were possible. What follow are examples of the different pages of the app, and a description of why they were needed and how they were made.
 
 ### Nearby Events
@@ -29,4 +30,4 @@ A firebase backend tied into the app allowed for quick changes that would propag
 ### Donate
 ![Donate](https://user-images.githubusercontent.com/8885471/57964751-71023e00-78ef-11e9-9cca-cbc23253de14.gif)
 
-This was just a simple webpage redirect, as no native solution could be developed through a thrid party API
+This was just a simple webpage redirect, as no native solution could be developed through a third party API

@@ -1,7 +1,7 @@
 +++
-date = "2019-04-10T16:41:54+01:00"
+date = "2019-08-01"
 weight = 110
-description = "An open sourced hardware and software drone dodging solution"
+description = "An award winning projectile dodging solution, using open source"
 title = "Drone Dodging"
 draft = false
 bref= "In partnership with raytheon"
