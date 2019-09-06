@@ -1,7 +1,7 @@
 +++
 draft= false
 title = "Resume"
-description = "Easy to read web resume"
+description = "Web Resume for Benjamin Hill"
 +++
 ### Education
 -----

@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Benjamin Hill"
 theme = "kube"
-description = ""
+description = "A website by Benjamin Hill, showcasing completed works, resume, and contact information"
 Paginate = 4
 [Params]
   RSSLink = "/index.xml"
