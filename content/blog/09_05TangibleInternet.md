@@ -1,11 +1,10 @@
 +++
-date = "2019-09-05"
+date = "2018-11-05"
 draft = false
 weight = 180
-description = "The internet cannot be grasped"
+description = "How the internet cannot be grasped"
 title = "Tangible Internet"
 bref = "Having real value from a website "
-
 +++
 
 The internet is a tumultuous storm of new and emerging ideas mixing with ones that are decades old. It’s difficult navigate, as there are just too many websites to comb through. It’s just too difficult to grasp.
@@ -44,10 +43,7 @@ So how can we fix this?
 
 Well I think we already are. The problem is that we’re quickly running up against limitations that the internet has. With how easy it is to simply close a window and do something else, it’s hard to really sink your teeth into something. I think the focus of web development should center around the individual. I think that new ideas need to come from a place where we consider what real world effect we want to have, first.
 
-Rob Spiegel from the E-Commerce Times wrote in 1999 about the mass adoption of the internet, and the hopes he had for the technology. He writes that his children talked to their friends about the internet, and that rather than being a dark and isolating experience, that it might be used as a tool for good. His children found the internet to be a talking point in their real lives. As web developers, we have an obligation to use these tools to promote positive change in the lives of our users. 
-
-
-
+Rob Spiegel from the E-Commerce Times wrote in 1999 about the mass adoption of the internet, and the hopes he had for the technology. He writes that his children talked to their friends about the internet, and that rather than being a dark and isolating experience, that it might be used as a tool for good. His children found the internet to be a talking point in their real lives. As web developers, we have an obligation to use these tools to promote positive change in the lives of our users.
 
 
 https://www.cnn.com/2016/06/30/health/americans-screen-time-nielsen/index.html
