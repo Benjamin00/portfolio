@@ -19,15 +19,21 @@ This was my first time leading a group, so I made sure I used the best Agile pra
 
 We also had a mentor from AT&T meet with us every week. She was an expert in Angular front-end development, and helped the members interested in front end development to protoype what the website would look like.
 
-![Prototype](/img/map1.png)
+<figure>
+  <img alt="4px horizontal rhythm" src="/img/map1.png" class = "center-image">
+</figure>
 
 I also taught all the team members how to use geographical data, and how to process it used the open-source software "QGis". In the MVP, we could create layers to indicate ranges near or away from certain things, and lay them on top of one another. By the end of the semester our maps looked like this:
 
-![FinalProduct](/img/map2.png)
+<figure>
+  <img alt="4px horizontal rhythm" src="/img/map2.png" class = "center-image">
+</figure>
 
 When the semester ended, each group was responsible for presenting the work that they had accomplished to a panel of experts: professors, AT&T representatives, and entrepreneurs. Our group, while previously inexperienced in public speaking, did an excellent job of showing our MVP as shown below.
 
-![Demo](/img/map3.gif)
+<figure>
+  <img alt="4px horizontal rhythm" src="/img/map3.gif" class = "center-image">
+</figure>
 
 ## Conclusions
 This project lasted the course of an entire semester, and taught me ways to improve my leadership skills. I learned the details and complexity of being a SCRUM master and product owner, in addition to the difficulty in teaching new concepts to inexperienced developers. I'm happy with the way the MVP turned out, and I still believe that this concept could turn into a viable start-up.
