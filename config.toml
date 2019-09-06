@@ -23,3 +23,5 @@ Paginate = 4
     name = "Resume"
     weight = -100
     url = "/resume/"
+[Params.seo.webmaster_verifications]
+  google = "google-site-verification=IwKwQtHChs30NyRUkx9XXRwvR4J1_Y8Gm0i82Ylgens"
