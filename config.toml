@@ -4,6 +4,8 @@ title = "Benjamin Hill"
 theme = "kube"
 description = "A website by Benjamin Hill, showcasing completed works, resume, and contact information"
 Paginate = 4
+enableRobotsTXT = true
+canonifyURLs = true
 [Params]
   RSSLink = "/index.xml"
   author = "Benjamin Hill" # add your company name

@@ -6,6 +6,7 @@ title = "StepWise"
 draft = false
 bref= "A Stanford University Treehacks hackathon award winning Angular website"
 toc = true
+author = "Benjamin Hill"
 +++
 
 ## Background

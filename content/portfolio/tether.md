@@ -4,8 +4,9 @@ weight = 110
 description = "Co-founded a company to bring people together"
 title = "Tether"
 draft = false
-bref= "Joining people and organizations based on common interess"
+bref= "Joining people and organizations based on common interests"
 toc = true
+author = "Benjamin Hill"
 +++
 
 ## The Background

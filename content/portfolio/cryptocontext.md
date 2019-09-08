@@ -6,6 +6,7 @@ title = "Crypto Context"
 draft = false
 bref= "Mapping cryptography prices to tone of voice data"
 toc = true
+author = "Benjamin Hill"
 +++
 ## Background
 My first semester pursuing my CS degree, I applied to join "ACM Projects", a group which would have you build a project over the course of a semester and present them in a pitch competition at the end. After going through two rounds of interviews, I was accepted. I later learned that the acceptance rate was only 10% of the total applicants, so I wasn't going to let the oppourtunity go to waste. We had a group leader, a more experienced member of this branch of ACM, and a four other group members, making six of us in total

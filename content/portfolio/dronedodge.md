@@ -6,6 +6,7 @@ title = "Projectile Evasion System for UAV"
 draft = false
 bref= "A UAV framework to recognize and dodge projectiles"
 toc = true
+author = "Benjamin Hill"
 +++
 
 ## The Background

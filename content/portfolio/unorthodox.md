@@ -6,6 +6,7 @@ title = "Unorthodox Mapping"
 draft = false
 bref= "Mapping the city of Dallas to find the optimal place to live"
 toc = true
+author = "Benjamin Hill"
 +++
 
 ## The Background:

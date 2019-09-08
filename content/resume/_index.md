@@ -1,7 +1,8 @@
 +++
 draft= false
 title = "Resume"
-description = "Web Resume for Benjamin Hill"
+description = "Web Friendly Fomatted Resume for Benjamin Hill seeking a career in Computer Science"
+author = "Benjamin Hill"
 +++
 ### Education
 -----

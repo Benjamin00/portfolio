@@ -2,6 +2,7 @@
 draft= false
 title = "Background"
 description = "A little about me"
+author = "Benjamin Hill"
 +++
 #### My name is Benjamin Hill
 

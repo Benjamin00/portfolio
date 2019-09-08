@@ -6,6 +6,7 @@ title = "Beto for Texas"
 draft = false
 bref= "A native IOS app designed to increase volunteerism"
 toc = true
+author = "Benjamin Hill"
 +++
 ## Background
 This app was developed over the course of the summer of 2018. I had the idea to build an app for the team when I realized there was none, I was frustrated by the state of politics in Texas, and wanted to volunteer to build something for a cause I cared about. When I wasn't taking classes I was communicating and coordinating solutions for the app with high ranking campaign staff, and learning how to code with Swift and Xcode. Firebase was used for a backend solution, and real-time updates were possible. What follow are examples of the different pages of the app, and a description of why they were needed and how they were made.
