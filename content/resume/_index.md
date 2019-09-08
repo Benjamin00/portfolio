@@ -20,7 +20,6 @@ author = "Benjamin Hill"
     <div class="col col-6">Bachelor of Arts, Geography
     <br>Minor: Mechanical Engineering
     <br>Major GPA: 3.76, Overall: 3.22
-    <br>Relevant Coursework: Engr Comp. Methods (<b>MATLAB</b>), Intro CS (<b>Python</b>)
     </div>
     <div class="col col-2">August 2018</div>
 </div>
@@ -72,8 +71,8 @@ author = "Benjamin Hill"
 </div>
 
 -   Awarded 2nd place overall out of a total of 52 CS Senior Design teams at UT Dallas.
--   Incepted and designed a modular architecture for a UAV to detect and dodge projectiles with machine vision.
--   Directly engaged with our corporate mentor at Raytheon to integrate the software with the Linux based hardware platform, ensure on-time delivery for each sprint, and re-evaluate our product roadmap over the course of the project.
+-   Incepted and designed a modular architecture for a UAV to detect and dodge projectiles with machine vision using **Python**
+-   Directly engaged with our corporate mentor at Raytheon to integrate the software with the **Linux** based hardware platform, ensure on-time delivery for each sprint, and re-evaluate our product roadmap over the course of the project.
 -   [Post discussing this project](../portfolio/dronedodge)
 
 <div class="row between"> 
@@ -90,7 +89,7 @@ author = "Benjamin Hill"
     <div class = "col">August 2018 - November 2018</div>
 </div>
 
-- Volunteered to develop iOS application in Swift to simplify volunteer onboarding process.
+- Volunteered to develop iOS application in **Swift** to simplify volunteer onboarding process.
 - Designed a decodable class for efficient API data handling, and a real-time database for immediate updates.
 - [Post discussing this project](../portfolio/betofortexas)
 
