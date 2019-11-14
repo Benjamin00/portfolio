@@ -73,7 +73,7 @@ author = "Benjamin Hill"
 -   Awarded 2nd place overall out of a total of 52 CS Senior Design teams at UT Dallas.
 -   Incepted and designed a modular architecture for a UAV to detect and dodge projectiles with machine vision using **Python**
 -   Directly engaged with our corporate mentor at Raytheon to integrate the software with the **Linux** based hardware platform, ensure on-time delivery for each sprint, and re-evaluate our product roadmap over the course of the project.
--   [Post discussing this project](../portfolio/dronedodge)
+-   [Post discussing this project](../portfolio/drone)
 
 <div class="row between"> 
     <div class = "col col-10" ><b>Stepwise</b> - <i> Stanford TreeHacks Best App for Civic Technology: Runner Up<i></div>
@@ -82,7 +82,7 @@ author = "Benjamin Hill"
 
 - Formed a team to build a website encouraging civic engagement through gamification and fun challenges.
 - Used **Angular.JS** as the frontend framework, with a Firebase backend for real-time updates.
-- [Post discussing Stepwise](../portfolio/stepwise)
+- [Post discussing Stepwise](../portfolio/steps)
 
 <div class="row between"> 
     <div class = "col col-8" ><b>Beto for Texas</b> - <i> Lead App Developer <i></div>
@@ -91,7 +91,7 @@ author = "Benjamin Hill"
 
 - Volunteered to develop iOS application in **Swift** to simplify volunteer onboarding process.
 - Designed a decodable class for efficient API data handling, and a real-time database for immediate updates.
-- [Post discussing this project](../portfolio/betofortexas)
+- [Post discussing this project](../portfolio/beto)
 
 <div class="row between"> 
     <div class = "col col-6" ><b>Crypto Context </b> - <i> ACM Projects Competition Winner 	<i></div>
@@ -100,7 +100,7 @@ author = "Benjamin Hill"
 
 - Developed a **Node.JS** backend for a website to reduce the difficulty in learning about certain crypto currencies.
 - Scraped Twitter data and used IBM Watson Tone analysis to determine the outlook of certain coins in **JavaScript**.
-- [Post discussing this project](../portfolio/cryptocontext)
+- [Post discussing this project](../portfolio/crypto)
 
 -----
 
@@ -114,7 +114,7 @@ author = "Benjamin Hill"
 - Mentoring 15 exceptional Computer Science students to develop ideas and build entrepreneurially viable products, including a React Apps, a Native iOS app, and an open source web project for **ACM Ignite**.
 - Scrum Master for a team of five CS freshman and sophomores, using Agile methodologies, to build a website using a **MEAN** stack.
 - Conducted over 400 in-person interviews with applicants to the Projects team at ACM. Determined who would be members or officers during that semester.
-- [Project I mentored during this time](../portfolio/unorthodox)
+- [Project I mentored during this time](../portfolio/unortho)
 
 <div class="row between"> 
     <div class = "col col-6" ><b>KVRX Student Radio</b> - <i>Head DJ<i></div>
