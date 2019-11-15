@@ -142,7 +142,7 @@ body {
   background-color: transparent; }
 
 a {
-  color: #3794de; }
+  color: #3C69F0; }
 
 a:hover {
   color: #f03c69; }
@@ -1030,8 +1030,8 @@ button:hover,
 .button.outline {
   background: none;
   border-width: 2px;
-  border-color: #1c86f2;
-  color: #1c86f2; }
+  border-color: #3C69F0;
+  color: #3C69F0; }
   .button.outline:hover {
     background: none;
     color: rgba(28, 134, 242, 0.6);
