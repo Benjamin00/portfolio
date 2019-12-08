@@ -9,10 +9,10 @@ toc = true
 author = "Benjamin Hill"
 +++
 ## Background
-My first semester pursuing my CS degree, I applied to join "ACM Projects", a group which would have you build a project over the course of a semester and present them in a pitch competition at the end. After going through two rounds of interviews, I was accepted. I later learned that the acceptance rate was only 10% of the total applicants, so I wasn't going to let the oppourtunity go to waste. We had a group leader, a more experienced member of this branch of ACM, and a four other group members, making six of us in total
+My first semester pursuing my CS degree, I applied to join "ACM Projects", a group which would have you build a project over the course of a semester and present them in a pitch competition at the end. After going through two rounds of interviews, I was accepted. I later learned that the acceptance rate was only 10% of the total applicants, so I wasn't going to let the opportunity go to waste. We had a group leader, a more experienced member of this branch of ACM, and a four other group members, making six of us in total
 
 ## The Idea
-We were given the prompt of building something to do with Crypto Currencies, this was 2018 after all, and the ferver had never been higher. After spending some time brainstorming I floated the idea of somehow making it easier for people new to the scene to get a condensed idea of the state of particular currencies, a snapshot of what it is, and how people feel about it. 
+We were given the prompt of building something to do with Crypto Currencies, this was 2018 after all, and the fervor had never been higher. After spending some time brainstorming I floated the idea of somehow making it easier for people new to the scene to get a condensed idea of the state of particular currencies, a snapshot of what it is, and how people feel about it. 
 
 The idea turned into "Crypo-Context", we would map the price of crypto currencies, and compare it to IBM "Watson's" tone analysis software with input data from queries on Twitter and Reddit surround those particular currencies.
 

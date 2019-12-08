@@ -16,9 +16,9 @@ During the Fall 2018 Semester, my second normal term at the University of Texas 
 Merge GIS and Computer Science to prototype a website to find the best place to live based on the users criteria. This might include proximity to public parks or swimming pools, how many vegan restaurants are nearby, or anything else. The idea was to build a concept website that could leverage the power of open sourced geo-spatial data to find the best neighborhood to live in.
 
 ## The Process:
-This was my first time leading a group, so I made sure I used the best Agile practices that I had learned through my previous experience at ACM Projects, and through my "Software Engineering" coursework which covered a lot of best collaborative practices. We met at least once a week, often more, and had standups so we knew what the others were working on.
+This was my first time leading a group, so I made sure I used the best Agile practices that I had learned through my previous experience at ACM Projects, and through my "Software Engineering" coursework which covered a lot of best collaborative practices. We met at least once a week, often more, and had stand-ups so we knew what the others were working on.
 
-We also had a mentor from AT&T meet with us every week. She was an expert in Angular front-end development, and helped the members interested in front end development to protoype what the website would look like.
+We also had a mentor from AT&T meet with us every week. She was an expert in Angular front-end development, and helped the members interested in front end development to prototype what the website would look like.
 
 <figure>
   <img alt="4px horizontal rhythm" src="/img/map1.png" class = "center-image">

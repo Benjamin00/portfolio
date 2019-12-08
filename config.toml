@@ -6,6 +6,11 @@ description = "A website by Benjamin Hill, showcasing completed works, resume, a
 Paginate = 4
 enableRobotsTXT = true
 canonifyURLs = true
+pygmentsStyle = "github"
+pygmentsCodeFences = true
+pygmentsUseClasses = false
+pygmentsCodefencesGuessSyntax = true
+
 [Params]
   RSSLink = "/index.xml"
   author = "Benjamin Hill" # add your company name
@@ -25,5 +30,10 @@ canonifyURLs = true
     name = "Resume"
     weight = -100
     url = "/resume/"
+[[menu.main]]
+    name = "Devlog"
+    weight = -100
+    url = "/blog/"
+    
 [Params.seo.webmaster_verifications]
   google = "google-site-verification=IwKwQtHChs30NyRUkx9XXRwvR4J1_Y8Gm0i82Ylgens"
