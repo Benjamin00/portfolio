@@ -212,7 +212,7 @@ for data in yaml.load_all(open('import_steps.yaml'),Loader = yaml.SafeLoader):
     for i in s['cat']:
         cts.append(Category.query.get(i))
 
-    step = Step(short_desc = s["short_desc"],long_desc=s["long_desc"],difficulty=s["difficulty"],effectiveness= s["effectiveness"],author_id = s['author_id'],cat =cts)
+    step = Step(...args..., categories = cat)
     db.session.add(step)
 db.session.commit()
 ```
