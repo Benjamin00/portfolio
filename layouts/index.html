@@ -6,7 +6,9 @@
 {{- else -}}
   <title>{{ .Title }} – {{ .Site.Title }}</title>
 {{- end }}
+
 <div id="main">
+  <link rel="preload" href="../static/css/font.css" as="font">
   <div id="hero">
   <img src= {{"/img/common/closehead.jpg"}} class="user" alt = "Benjamin Hill Profile Picture"></img>
     <h1>{{.Title}}</h1>
