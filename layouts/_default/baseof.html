@@ -7,6 +7,10 @@
     <noscript>
         <link rel="stylesheet" href="/css/master.css">
     </noscript>
+  <link rel="preload" href="/css/kube.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+      <link rel="stylesheet" href="/css/kube.min.css">
+  </noscript>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -39,7 +43,6 @@
   {{ partial "favicon" . }}
 
   <link href="{{ "/css/font.css" | relURL }}" rel="stylesheet" type="text/css">
-  <link href="{{ "/css/kube.min.css" | relURL }}" rel="stylesheet" type="text/css">
   <link href="{{ "/css/highlight.css" | relURL }}" rel="stylesheet" type="text/css">
 <!-- Your own theme here -->
  <link href="{{ "/css/custom.css" | relURL }}" rel="stylesheet" type="text/css">
