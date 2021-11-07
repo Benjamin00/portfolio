@@ -43,10 +43,10 @@
 <!-- Your own theme here -->
  <link href="{{ "/css/custom.css" | relURL }}" rel="stylesheet" type="text/css">
 <!-- js vendor -->
-  <script src="{{ "/js/jquery-2.1.4.min.js" | relURL }}" type="text/javascript">
+  <script async src="{{ "/js/jquery-2.1.4.min.js" | relURL }}" type="text/javascript">
   </script>
 
-  <script type="text/javascript" src="{{ "/js/tocbot.min.js" | relURL }}"></script>
+  <script async type="text/javascript" src="{{ "/js/tocbot.min.js" | relURL }}"></script>
 </head>
 
 
@@ -56,11 +56,9 @@
   <footer>{{ block "footer" . }}{{ end }}</footer>
 
 
-  <script src="{{ "/js/kube.js" | relURL }}" type="text/javascript">
+  <script async src="{{ "/js/kube.js" | relURL }}" type="text/javascript">
   </script>
-  <script src="{{ "/js/kube.legenda.js" | relURL }}" type="text/javascript">
-  </script>
-  <script src="{{ "/js/master.js" | relURL }}" type="text/javascript">
+  <script async src="{{ "/js/master.js" | relURL }}" type="text/javascript">
   </script>
 </body>
 
