@@ -32,7 +32,7 @@ pygmentsCodefencesGuessSyntax = true
     url = "/resume/"
 [[menu.main]]
     name = "Devlog"
-    weight = -100
+    weight = -50
     url = "/blog/"
 
 [markup]
