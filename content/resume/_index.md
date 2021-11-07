@@ -45,8 +45,8 @@ author = "Benjamin Hill"
 
 ### Experience
 <div class="row between"> 
-    <div class = "col col-6" ><b>Indeed</b> - <i> Software Engineer <i>; Austin, Texas</div>
-    <div class = "col col-12">February 2020 – Today</div>
+    <div class = "col col-6" ><b>Indeed</b> - <i>Software Engineer<i>; Austin Texas</div>
+    <div class = "col col-12">Februrary 2020 – Today</div>
 </div>
 Jobs-Verticals
 
@@ -54,23 +54,22 @@ Jobs-Verticals
 - Developed and solely maintained a MongoDB to manage a service for internal segment managers to create A/B experiments based on locale. Hosted on AWS as a DocumentDB.
 
 Indeed University
-
 - Created a new product at Indeed that invites employers to set questions to allow people to interview themselves. Viewed by ~24,000 distinct employers over 48,000 times.
 
-Platform-UI
-
+Platform-UI team.
 - Helping develop and maintain a plugin platform for other teams to dynamically add their content to the employers site of Indeed.
 
 <div class="row between"> 
-    <div class = "col col-6" ><b>Younicos</b> - <i> Projects Engineering Intern<i>; Austin, Texas</div>
+    <div class = "col col-6" ><b>Younicos</b> - <i> Projects Engineering Intern<i>; Austin Texas</div>
     <div class = "col col-12">August 2016 – August 2017</div>
 </div>
+
 - Managed implementation and deployment of five new product testing solutions.
 - Saved the company over 2000 dollars by modeling and building a capacitor bank used for certification testing.
 - Reduced the ongoing cost of certification labeling by 20% per unit after designing an in-house label manufacturing system.
 
 <div class="row between"> 
-    <div class = "col col-6" ><b>Tether</b> - <i> Startup Co-Founder<i>; Austin, Texas</div>
+    <div class = "col col-6" ><b>Tether</b> - <i> Startup Co-Founder<i>; Austin Texas</div>
     <div class = "col col-12">June 2016 – August 2016</div>
     <div class="col col-1 last">  </div>
 </div>

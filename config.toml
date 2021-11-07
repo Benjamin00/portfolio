@@ -34,6 +34,11 @@ pygmentsCodefencesGuessSyntax = true
     name = "Devlog"
     weight = -100
     url = "/blog/"
-    
+
+[markup]
+   [markup.goldmark]     
+      [markup.goldmark.renderer]        
+         unsafe = true
+         
 [Params.seo.webmaster_verifications]
   google = "google-site-verification=IwKwQtHChs30NyRUkx9XXRwvR4J1_Y8Gm0i82Ylgens"
