@@ -31,33 +31,27 @@ author = "Benjamin Hill"
     <div><b>Programming Languages</b></div>
 </div>
 <div class="row"> 
-    <div class = "last"> Java, Swift, JavaScript, Angular, Node.JS, Python, C++, UNIX shell scripts, C, MATLAB, HTML, CSS, Assembly (MIPS) </div>
+    <div class = "last"> JavaScript (Typescript), GraphQL, Python, C++, Java, C, MATLAB, HTML, UNIX, Assembly, R, SQL </div>
 </div>
 
 <div class="row"> 
-    <div><b>Spoken Languages</b></div>
+    <div><b>Frameworks</b></div>
 </div>
 <div class="row"> 
-    <div class = "last"> English, German (Fluent), French (Intermediate) </div>
+    <div class = "last"> React, MongoDB, Redux, SQL Server, AWS, ArcGIS </div>
 </div>
 
 -------
-
 ### Experience
 <div class="row between"> 
     <div class = "col col-6" ><b>Indeed</b> - <i>Software Engineer<i>; Austin Texas</div>
     <div class = "col col-12">Februrary 2020 – Today</div>
 </div>
-Jobs-Verticals
 
-- Designed and managed key features as part of a migration from a legacy job posting system: the job publishing system and the job editing features, used over 600k and 900k times respectively by US employers.
-- Developed and solely maintained a MongoDB to manage a service for internal segment managers to create A/B experiments based on locale. Hosted on AWS as a DocumentDB.
-
-Indeed University
-- Created a new product at Indeed that invites employers to set questions to allow people to interview themselves. Viewed by ~24,000 distinct employers over 48,000 times.
-
-Platform-UI team.
-- Helping develop and maintain a plugin platform for other teams to dynamically add their content to the employers site of Indeed.
+* Designed and created the job publishing and editing functions for a new job posting experience, used by 100% of US employers over **1 million** times each.
+* Created and maintained a MongoDB database to manage a service for internal segment managers to create A/B experiments based on an employers locale. Hosted on AWS as a DocumentDB.
+* Indeed University: pitched and developed a product to let people record themselves answering interview questions to be reviewed by employers asynchronously. Used by 24,000 distinct employers over 48,000 times.
+* Platform-UI: Helping develop, maintain and support a plugin platform for other teams to dynamically add their content to the employers site of Indeed. Created a new default experience for engineer to experiment more easily; used to create over 850 production ready plugins.
 
 <div class="row between"> 
     <div class = "col col-6" ><b>Younicos</b> - <i> Projects Engineering Intern<i>; Austin Texas</div>
