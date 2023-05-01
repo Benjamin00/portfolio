@@ -23,17 +23,17 @@ pygmentsCodefencesGuessSyntax = true
     weight = -100
     url = "/portfolio/"
 [[menu.main]]
-    name = "Background"
+    name = "About Me"
     weight = -100
     url = "/background/"
 [[menu.main]]
     name = "Resume"
     weight = -100
     url = "/resume/"
-[[menu.main]]
-    name = "Devlog"
-    weight = -50
-    url = "/blog/"
+# [[menu.main]]
+#     name = "Devlog"
+#     weight = -50
+#     url = "/blog/"
 
 [markup]
    [markup.goldmark]     
